@@ -16,6 +16,8 @@
         <input type="text" name="telephone" required><br><br>
         <input type="submit" value="S'inscrire">
     </form>
+    <br>
+    <a href="liste.php">Voir les candidats inscrits</a>
 <style>
         body {
             background-color: green;
@@ -46,9 +48,6 @@
             padding: 5px;
         }
 
-        
-       
-    
 </style>
 </body>
 
